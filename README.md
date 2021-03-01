@@ -20,7 +20,7 @@ example one hight and low example 40, 1000
 
 example two [60,10,45,60,1500] 
 
-example one hight and low example 20, 50
+example two hight and low example 20, 50
 
 ## Ouput 
 
