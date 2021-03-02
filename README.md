@@ -4,8 +4,6 @@
 
 This is a practice repo for the Makers coding academy review practice interview.  
 
-The 
-
 ## Digital audio works station plugins 
 
 musicians can appliy filters to there trackes in order to chance the way it sounds. 
