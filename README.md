@@ -1,4 +1,10 @@
-# Review_Two 
+# Review_Two  
+
+## Description 
+
+This is a practice repo for the Makers coding academy review practice interview.  
+
+The 
 
 ## Digital audio works station plugins 
 
